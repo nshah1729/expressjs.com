@@ -42,7 +42,7 @@ To install Express temporarily and not add it to the dependencies list:
 ```sh
 $ npm install express --no-save
 ```
-Or, simply: (**i** = install)
+Or, simply: (**i** = Install)
 ```sh
 $ npm i express
 ```
